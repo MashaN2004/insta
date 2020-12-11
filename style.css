@@ -1,0 +1,36 @@
+.bg{
+	background-image: url(clown.jpg);
+}
+.header-height{
+	height: 60px;
+}
+.body-height{
+	height: 2000px;
+}
+.body1-height{
+	height: 600px;
+}
+.body2-height{
+	height: 600px;
+}
+.h300{
+	height: 260px;
+}
+.h400{
+	height: 230px;
+}
+.h50{
+	height: 50px;
+}
+.fs{
+	font-size: 12px
+}
+.h100{
+	height: 60px;
+}
+.h300{
+	height: 400px;
+}
+.h130{
+	height: 80;
+}
